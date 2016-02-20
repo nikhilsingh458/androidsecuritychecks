@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.nikhilsingh.myapplication.MainActivity"
+    tools:showIn="@layout/activity_main">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:text="@string/CheckAccess"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/checkrooted"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Checkrooted"
+        android:layout_below="@id/editText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/safeenvironment"
+        android:text="@string/SafeEnvironment"
+        android:layout_below="@id/checkrooted"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/emulatortest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/emulatortest"
+        android:layout_below="@id/safeenvironment" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/signaturetest"
+        android:text="@string/appsignature"
+        android:layout_below="@id/emulatortest"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/btnappsignature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/signaturetest"
+        android:text="@string/signaturecheck" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/txtvwbluetooth"
+        android:layout_below="@id/btnappsignature"
+        android:text="@string/bluetoothcheck"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:id="@+id/btnbluetoothcheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bluetoothstatus"
+        android:layout_below="@id/txtvwbluetooth" />
+</RelativeLayout>

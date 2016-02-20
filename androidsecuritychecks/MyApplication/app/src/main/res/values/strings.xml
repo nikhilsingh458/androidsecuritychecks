@@ -1,0 +1,15 @@
+<resources>
+    <string name="Checkrooted">Check Rooted</string>
+    <string name="CheckAccess">Check Folder Access</string>
+    <string name="IOAccess">Check IO Access</string>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="SafeEnvironment">Safe Environment Check</string>
+    <string name="emulatortest">Debugger Attached</string>
+    <string name="debuggertest">Debugger Test</string>
+    <string name="runningtasks">Running Task/Services</string>
+    <string name="appsignature">App Signature Test</string>
+    <string name="signaturecheck">Application Signature</string>
+    <string name="bluetoothcheck"> Bluetooth Check </string>
+    <string name="bluetoothstatus"> Bluetooth Status </string>
+</resources>
