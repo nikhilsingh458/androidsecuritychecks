@@ -1,0 +1,8 @@
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\bin\Debug\WcfService1.dll
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\bin\Debug\WcfService1.pdb
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

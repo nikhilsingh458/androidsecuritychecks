@@ -1,0 +1,6 @@
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+c:\users\nikhil.singh\documents\visual studio 2012\Projects\WcfService1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
